@@ -18,9 +18,6 @@ import net.minecraft.util.Formatting;
 import net.minecraft.world.World;
 import org.jetbrains.annotations.Nullable;
 
-import java.util.ArrayList;
-import java.util.List;
-
 public class Armor extends ArmorItem {
     private final ArmorTiers armorType;
     private final EquipmentSlot slotType;
@@ -119,49 +116,5 @@ public class Armor extends ArmorItem {
 
     private boolean isFullSet(PlayerEntity player, ArmorTiers type) {
         return entityIsWearingArmorSetOfType(player, type);
-    }
-
-    public static List<ArmorTiers> getArmorTypes(LivingEntity entity) {
-        List<ArmorTiers> types = new ArrayList<>();
-        EquipmentSlot[] slots = {EquipmentSlot.HEAD, EquipmentSlot.CHEST, EquipmentSlot.LEGS, EquipmentSlot.FEET};
-
-        for (EquipmentSlot slot : slots) {
-            ItemStack stack = entity.getEquippedStack(slot);
-            if (stack.getItem() instanceof Armor armor) {
-                ArmorTiers type = armor.getArmorType();
-                if (!types.contains(type)) {
-                    types.add(type);
-                }
-            }
-        }
-
-        return types;
-    }
-
-    public static int calcAmplifier(LivingEntity entity, ArmorTiers type) {
-        int amplifier = 0;
-
-        Item helmet = entity.getEquippedStack(EquipmentSlot.HEAD).getItem();
-        Item chestplate = entity.getEquippedStack(EquipmentSlot.CHEST).getItem();
-        Item leggings = entity.getEquippedStack(EquipmentSlot.LEGS).getItem();
-        Item boots = entity.getEquippedStack(EquipmentSlot.FEET).getItem();
-
-        if (helmet instanceof Armor && ((Armor) helmet).getArmorType() == type) {
-            amplifier += 1;
-        }
-
-        if (boots instanceof Armor && ((Armor) boots).getArmorType() == type) {
-            amplifier += 1;
-        }
-
-        if (leggings instanceof Armor && ((Armor) leggings).getArmorType() == type) {
-            amplifier += 2;
-        }
-
-        if (chestplate instanceof Armor && ((Armor) chestplate).getArmorType() == type) {
-            amplifier += 3;
-        }
-
-        return amplifier;
     }
 }

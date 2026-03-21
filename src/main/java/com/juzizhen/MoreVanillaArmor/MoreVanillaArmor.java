@@ -1,5 +1,6 @@
 package com.juzizhen.MoreVanillaArmor;
 
+import com.juzizhen.MoreVanillaArmor.util.ArmorSetBonusHandler;
 import com.juzizhen.MoreVanillaArmor.util.ModRegistries;
 import net.fabricmc.api.ModInitializer;
 
@@ -10,5 +11,6 @@ public class MoreVanillaArmor implements ModInitializer {
     @Override
     public void onInitialize() {
         ModRegistries.register();
+        ArmorSetBonusHandler.register();
     }
 }
