@@ -1,0 +1,31 @@
+{
+	"schemaVersion": 1,
+	"id": "morevanillaarmor",
+	"version": "${version}",
+	"name": "MoreVanillaArmor",
+	"description": "A mod which adds more armor in the vanilla way.",
+	"authors": [
+		"juzizhen, MelanX"
+	],
+	"contact": {
+		"homepage": "https://github.com/juzizhen/MoreVanillaArmor",
+		"sources": "https://github.com/juzizhen/MoreVanillaArmor"
+	},
+	"license": "MIT License",
+	"icon": "assets/morevanillaarmor/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.juzizhen.MoreVanillaArmor.MoreVanillaArmor"
+		]
+	},
+	"mixins": [
+		"morevanillaarmor.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.17.3",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	}
+}
