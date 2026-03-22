@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "already_crafted": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "morevanillaarmor:glowstone_leggings"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "morevanillaarmor:glowstone_leggings"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "already_crafted",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "morevanillaarmor:glowstone_leggings"
+    ]
+  },
+  "sends_telemetry_event": false
+}
