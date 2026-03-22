@@ -3,7 +3,7 @@
   "category": "equipment",
   "key": {
     "M": {
-      "tag": "forge:storage_blocks/lapis"
+      "tag": "c:storage_blocks/lapis"
     }
   },
   "pattern": [

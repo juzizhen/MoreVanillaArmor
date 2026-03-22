@@ -3,7 +3,7 @@
   "category": "equipment",
   "key": {
     "M": {
-      "tag": "forge:obsidian"
+      "tag": "c:obsidian"
     }
   },
   "pattern": [

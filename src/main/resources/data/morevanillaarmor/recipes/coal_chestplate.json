@@ -3,7 +3,7 @@
   "category": "equipment",
   "key": {
     "M": {
-      "tag": "forge:storage_blocks/coal"
+      "tag": "c:storage_blocks/coal"
     }
   },
   "pattern": [

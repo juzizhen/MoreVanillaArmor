@@ -2,9 +2,15 @@ package com.juzizhen.MoreVanillaArmor.util;
 
 
 import com.juzizhen.MoreVanillaArmor.MoreVanillaArmor;
+import com.juzizhen.MoreVanillaArmor.block.RedstoneEssenceBlock;
+import com.juzizhen.MoreVanillaArmor.block.RedstoneEssenceBlockEntity;
 import com.juzizhen.MoreVanillaArmor.items.Armor;
 import com.juzizhen.MoreVanillaArmor.items.ArmorTiers;
 import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroup;
+import net.minecraft.block.AbstractBlock;
+import net.minecraft.block.Block;
+import net.minecraft.block.Blocks;
+import net.minecraft.block.entity.BlockEntityType;
 import net.minecraft.entity.EquipmentSlot;
 import net.minecraft.item.ArmorItem;
 import net.minecraft.item.Item;
@@ -23,8 +29,32 @@ import java.util.Map;
 public class ModRegistries {
 
     public static final Map<ArmorPiece, Armor> armor = new HashMap<>();
+    public static Block REDSTONE_ESSENCE;
+    public static BlockEntityType<RedstoneEssenceBlockEntity> REDSTONE_ESSENCE_BLOCK_ENTITY;
 
     public static void register() {
+        REDSTONE_ESSENCE = Registry.register(
+                Registries.BLOCK,
+                Identifier.of(MoreVanillaArmor.MODID, "redstone_essence"),
+                new RedstoneEssenceBlock(
+                        AbstractBlock.Settings.copy(Blocks.AIR)
+                                .noCollision()
+                                .breakInstantly()
+                                .nonOpaque()
+                                .dropsNothing()
+                                .luminance(state -> 0)
+                )
+        );
+
+        REDSTONE_ESSENCE_BLOCK_ENTITY = Registry.register(
+                Registries.BLOCK_ENTITY_TYPE,
+                Identifier.of(MoreVanillaArmor.MODID, "redstone_essence"),
+                BlockEntityType.Builder.create(
+                        RedstoneEssenceBlockEntity::new,
+                        REDSTONE_ESSENCE
+                ).build(null)
+        );
+
         for (ArmorTiers armorType : ArmorTiers.values()) {
             for (ArmorItem.Type type : ArmorItem.Type.values()) {
                 ArmorPiece piece = new ArmorPiece(armorType, ArmorSlot.get(Armor.getSlotFromType(type)));
@@ -38,7 +68,6 @@ public class ModRegistries {
                 );
             }
         }
-
 
         Registry.register(
                 Registries.ITEM_GROUP,

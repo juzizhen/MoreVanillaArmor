@@ -17,6 +17,9 @@
 	"entrypoints": {
 		"main": [
 			"com.juzizhen.MoreVanillaArmor.MoreVanillaArmor"
+		],
+		"client": [
+			"com.juzizhen.MoreVanillaArmor.MoreVanillaArmorClient"
 		]
 	},
 	"mixins": [
