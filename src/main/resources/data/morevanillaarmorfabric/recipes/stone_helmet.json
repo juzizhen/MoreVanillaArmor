@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "M": {
+      "tag": "c:stone"
+    }
+  },
+  "pattern": [
+    "MMM",
+    "M M"
+  ],
+  "result": {
+    "item": "morevanillaarmorfabric:stone_helmet"
+  },
+  "show_notification": true
+}

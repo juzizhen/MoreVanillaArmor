@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "already_crafted": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "morevanillaarmorfabric:lapis_boots"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "morevanillaarmorfabric:lapis_boots"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "already_crafted",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "morevanillaarmorfabric:lapis_boots"
+    ]
+  },
+  "sends_telemetry_event": false
+}

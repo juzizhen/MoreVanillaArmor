@@ -1,0 +1,98 @@
+{
+  "itemGroup.morevanillaarmorfabric": "morevanillaarmorfabric",
+
+  "morevanillaarmorfabric.bonus.damage_reduction": "Schadensreduktion",
+  "morevanillaarmorfabric.bonus.fire_immunity": "Feuerimmunität",
+  "morevanillaarmorfabric.bonus.heavy": "Schwere",
+  "morevanillaarmorfabric.bonus.power_source": "Energiequelle",
+  "morevanillaarmorfabric.bonus.lightning_magnet": "Blitzmagnet",
+
+  "item.morevanillaarmorfabric.bone_boots": "Knochenstiefel",
+  "item.morevanillaarmorfabric.bone_chestplate": "Knochenharnisch",
+  "item.morevanillaarmorfabric.bone_helmet": "Knochenhelm",
+  "item.morevanillaarmorfabric.bone_leggings": "Knochenbeinschutz",
+
+  "item.morevanillaarmorfabric.coal_boots": "Kohlestiefel",
+  "item.morevanillaarmorfabric.coal_chestplate": "Kohleharnisch",
+  "item.morevanillaarmorfabric.coal_helmet": "Kohlehelm",
+  "item.morevanillaarmorfabric.coal_leggings": "Kohlebeinschutz",
+
+  "item.morevanillaarmorfabric.copper_boots": "Kupferstiefel",
+  "item.morevanillaarmorfabric.copper_chestplate": "Kupferharnisch",
+  "item.morevanillaarmorfabric.copper_helmet": "Kupferhelm",
+  "item.morevanillaarmorfabric.copper_leggings": "Kupferbeinschutz",
+
+  "item.morevanillaarmorfabric.emerald_boots": "Smaragdstiefel",
+  "item.morevanillaarmorfabric.emerald_chestplate": "Smaragdharnisch",
+  "item.morevanillaarmorfabric.emerald_helmet": "Smaragdhelm",
+  "item.morevanillaarmorfabric.emerald_leggings": "Smaragdbeinschutz",
+
+  "item.morevanillaarmorfabric.ender_boots": "Enderstiefel",
+  "item.morevanillaarmorfabric.ender_chestplate": "Enderharnisch",
+  "item.morevanillaarmorfabric.ender_helmet": "Enderhelm",
+  "item.morevanillaarmorfabric.ender_leggings": "Enderbeinschutz",
+
+  "item.morevanillaarmorfabric.fiery_boots": "Feuerstiefel",
+  "item.morevanillaarmorfabric.fiery_chestplate": "Feuerharnisch",
+  "item.morevanillaarmorfabric.fiery_helmet": "Feuerhelm",
+  "item.morevanillaarmorfabric.fiery_leggings": "Feuerbeinschutz",
+
+  "item.morevanillaarmorfabric.glowstone_boots": "Glowstonestiefel",
+  "item.morevanillaarmorfabric.glowstone_chestplate": "Glowstoneharnisch",
+  "item.morevanillaarmorfabric.glowstone_helmet": "Glowstonehelm",
+  "item.morevanillaarmorfabric.glowstone_leggings": "Glowstonebeinschutz",
+
+  "item.morevanillaarmorfabric.lapis_boots": "Lapisstiefel",
+  "item.morevanillaarmorfabric.lapis_chestplate": "Lapisharnisch",
+  "item.morevanillaarmorfabric.lapis_helmet": "Lapishelm",
+  "item.morevanillaarmorfabric.lapis_leggings": "Lapisbeinschutz",
+
+  "item.morevanillaarmorfabric.nether_boots": "Netherstiefel",
+  "item.morevanillaarmorfabric.nether_chestplate": "Netherharnisch",
+  "item.morevanillaarmorfabric.nether_helmet": "Netherhelm",
+  "item.morevanillaarmorfabric.nether_leggings": "Netherbeinschutz",
+
+  "item.morevanillaarmorfabric.obsidian_boots": "Obsidianstiefel",
+  "item.morevanillaarmorfabric.obsidian_chestplate": "Obsidianharnisch",
+  "item.morevanillaarmorfabric.obsidian_helmet": "Obsidianhelm",
+  "item.morevanillaarmorfabric.obsidian_leggings": "Obsidianbeinschutz",
+
+  "item.morevanillaarmorfabric.paper_boots": "Papierstiefel",
+  "item.morevanillaarmorfabric.paper_chestplate": "Papierharnisch",
+  "item.morevanillaarmorfabric.paper_helmet": "Papierhelm",
+  "item.morevanillaarmorfabric.paper_leggings": "Papierbeinschutz",
+
+  "item.morevanillaarmorfabric.prismarine_boots": "Prismarinstiefel",
+  "item.morevanillaarmorfabric.prismarine_chestplate": "Prismarinharnisch",
+  "item.morevanillaarmorfabric.prismarine_helmet": "Prismarinhelm",
+  "item.morevanillaarmorfabric.prismarine_leggings": "Prismarinbeinschutz",
+
+  "item.morevanillaarmorfabric.quartz_boots": "Netherquartzstiefel",
+  "item.morevanillaarmorfabric.quartz_chestplate": "Netherquartzharnisch",
+  "item.morevanillaarmorfabric.quartz_helmet": "Netherquartzhelm",
+  "item.morevanillaarmorfabric.quartz_leggings": "Netherquartzbeinschutz",
+
+  "item.morevanillaarmorfabric.redstone_boots": "Redstonestiefel",
+  "item.morevanillaarmorfabric.redstone_chestplate": "Redstoneharnisch",
+  "item.morevanillaarmorfabric.redstone_helmet": "Redstonehelm",
+  "item.morevanillaarmorfabric.redstone_leggings": "Redstonebeinschutz",
+
+  "item.morevanillaarmorfabric.slime_boots": "Schleimstiefel",
+  "item.morevanillaarmorfabric.slime_chestplate": "Schleimharnisch",
+  "item.morevanillaarmorfabric.slime_helmet": "Schleimhelm",
+  "item.morevanillaarmorfabric.slime_leggings": "Schleimbeinschutz",
+
+  "item.morevanillaarmorfabric.stone_boots": "Steinstiefel",
+  "item.morevanillaarmorfabric.stone_chestplate": "Steinharnisch",
+  "item.morevanillaarmorfabric.stone_helmet": "Steinhelm",
+  "item.morevanillaarmorfabric.stone_leggings": "Steinbeinschutz",
+
+  "item.morevanillaarmorfabric.wood_boots": "Holzstiefel",
+  "item.morevanillaarmorfabric.wood_chestplate": "Holzharnisch",
+  "item.morevanillaarmorfabric.wood_helmet": "Holzhelm",
+  "item.morevanillaarmorfabric.wood_leggings": "Holzbeinschutz",
+
+  "tooltip.morevanillaarmorfabric.missing": "Fehlend: ",
+  "tooltip.morevanillaarmorfabric.missing_pieces": "mehrere Teile",
+  "tooltip.morevanillaarmorfabric.setbonus": "Setbonus: "
+}

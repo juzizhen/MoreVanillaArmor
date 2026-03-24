@@ -1,25 +1,25 @@
 {
 	"schemaVersion": 1,
-	"id": "morevanillaarmor",
+	"id": "morevanillaarmorfabric",
 	"version": "${version}",
-	"name": "MoreVanillaArmor",
+	"name": "morevanillaarmorfabric",
 	"description": "A mod which adds more armor in the vanilla way.",
 	"authors": [
 		"juzizhen, MelanX"
 	],
 	"contact": {
-		"homepage": "https://github.com/juzizhen/MoreVanillaArmor",
-		"sources": "https://github.com/juzizhen/MoreVanillaArmor"
+		"homepage": "https://github.com/juzizhen/morevanillaarmorfabric",
+		"sources": "https://github.com/juzizhen/morevanillaarmorfabric"
 	},
 	"license": "MIT License",
-	"icon": "assets/morevanillaarmor/icon.png",
+	"icon": "assets/morevanillaarmorfabric/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"com.juzizhen.MoreVanillaArmor.MoreVanillaArmor"
+			"com.juzizhen.MoreVanillaArmorFabric.morevanillaarmorfabric"
 		],
 		"client": [
-			"com.juzizhen.MoreVanillaArmor.MoreVanillaArmorClient"
+			"com.juzizhen.MoreVanillaArmorFabric.morevanillaarmorfabricClient"
 		]
 	},
 	"depends": {

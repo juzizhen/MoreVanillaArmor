@@ -1,0 +1,71 @@
+{
+  "item.morevanillaarmorfabric.bone_helmet": "Костяной шлем",
+  "item.morevanillaarmorfabric.bone_chestplate": "Костяной нагрудник",
+  "item.morevanillaarmorfabric.bone_leggings": "Костяные поножи",
+  "item.morevanillaarmorfabric.bone_boots": "Костяные ботинки",
+
+  "item.morevanillaarmorfabric.coal_helmet": "Угольный шлем",
+  "item.morevanillaarmorfabric.coal_chestplate": "Угольный нагрудник",
+  "item.morevanillaarmorfabric.coal_leggings": "Угольные поножи",
+  "item.morevanillaarmorfabric.coal_boots": "Угольные ботинки",
+
+  "item.morevanillaarmorfabric.emerald_helmet": "Изумрудный шлем",
+  "item.morevanillaarmorfabric.emerald_chestplate": "Изумрудный нагрудник",
+  "item.morevanillaarmorfabric.emerald_leggings": "Изумрудные поножи",
+  "item.morevanillaarmorfabric.emerald_boots": "Изумрудные ботинки",
+
+  "item.morevanillaarmorfabric.ender_helmet": "Эндер-шлем",
+  "item.morevanillaarmorfabric.ender_chestplate": "Эндер-нагрудник",
+  "item.morevanillaarmorfabric.ender_leggings": "Эндер-поножи",
+  "item.morevanillaarmorfabric.ender_boots": "Эндер-ботинки",
+
+  "item.morevanillaarmorfabric.fiery_helmet": "Огненный шлем",
+  "item.morevanillaarmorfabric.fiery_chestplate": "Огненный нагрудник",
+  "item.morevanillaarmorfabric.fiery_leggings": "Огненные поножи",
+  "item.morevanillaarmorfabric.fiery_boots": "Огненные ботинки",
+
+  "item.morevanillaarmorfabric.glowstone_helmet": "Светокаменный шлем",
+  "item.morevanillaarmorfabric.glowstone_chestplate": "Светокаменный нагрудник",
+  "item.morevanillaarmorfabric.glowstone_leggings": "Светокаменные поножи",
+  "item.morevanillaarmorfabric.glowstone_boots": "Светокаменные ботинки",
+
+  "item.morevanillaarmorfabric.lapis_helmet": "Лазуритовый шлем",
+  "item.morevanillaarmorfabric.lapis_chestplate": "Лазуритовый нагрудник",
+  "item.morevanillaarmorfabric.lapis_leggings": "Лазуритовые поножи",
+  "item.morevanillaarmorfabric.lapis_boots": "Лазуритовые ботинки",
+
+  "item.morevanillaarmorfabric.nether_helmet": "Незерский шлем",
+  "item.morevanillaarmorfabric.nether_chestplate": "Незерский нагрудник",
+  "item.morevanillaarmorfabric.nether_leggings": "Незерские поножи",
+  "item.morevanillaarmorfabric.nether_boots": "Незерские ботинки",
+
+  "item.morevanillaarmorfabric.obsidian_helmet": "Обсидиановый шлем",
+  "item.morevanillaarmorfabric.obsidian_chestplate": "Обсидиановый нагрудник",
+  "item.morevanillaarmorfabric.obsidian_leggings": "Обсидиановые поножи",
+  "item.morevanillaarmorfabric.obsidian_boots": "Обсидиановые ботинки",
+
+  "item.morevanillaarmorfabric.paper_helmet": "Бумажный шлем",
+  "item.morevanillaarmorfabric.paper_chestplate": "Бумажный нагрудник",
+  "item.morevanillaarmorfabric.paper_leggings": "Бумажные поножи",
+  "item.morevanillaarmorfabric.paper_boots": "Бумажные ботинки",
+
+  "item.morevanillaarmorfabric.prismarine_helmet": "Призмариновый шлем",
+  "item.morevanillaarmorfabric.prismarine_chestplate": "Призмариновый нагрудник",
+  "item.morevanillaarmorfabric.prismarine_leggings": "Призмариновые поножи",
+  "item.morevanillaarmorfabric.prismarine_boots": "Призмариновые ботинки",
+
+  "item.morevanillaarmorfabric.quartz_helmet": "Кварцевый шлем",
+  "item.morevanillaarmorfabric.quartz_chestplate": "Кварцевый нагрудник",
+  "item.morevanillaarmorfabric.quartz_leggings": "Кварцевые поножи",
+  "item.morevanillaarmorfabric.quartz_boots": "Кварцевые ботинки",
+
+  "item.morevanillaarmorfabric.redstone_helmet": "Редстоуновый шлем",
+  "item.morevanillaarmorfabric.redstone_chestplate": "Редстоуновый нагрудник",
+  "item.morevanillaarmorfabric.redstone_leggings": "Редстоуновые поножи",
+  "item.morevanillaarmorfabric.redstone_boots": "Редстоуновые ботинки",
+
+  "item.morevanillaarmorfabric.slime_helmet": "Слизневый шлем",
+  "item.morevanillaarmorfabric.slime_chestplate": "Слизневый нагрудник",
+  "item.morevanillaarmorfabric.slime_leggings": "Слизневые поножи",
+  "item.morevanillaarmorfabric.slime_boots": "Слизневые ботинки"
+}

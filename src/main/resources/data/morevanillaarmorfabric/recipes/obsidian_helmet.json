@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "M": {
+      "tag": "c:obsidian"
+    }
+  },
+  "pattern": [
+    "MMM",
+    "M M"
+  ],
+  "result": {
+    "item": "morevanillaarmorfabric:obsidian_helmet"
+  },
+  "show_notification": true
+}

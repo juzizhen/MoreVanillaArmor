@@ -1,17 +1,17 @@
-# More Vanilla Armor
+# More Vanilla Armor Fabric
 
 Added armor crafted from a wider variety of materials, including bone, coal, emerald, glowstone, lapis lazuli, and even paper.
 
 Requires the Fabric API.
 
-- [Original Mod Download](https://github.com/ChaoticTrials/MoreVanillaArmor)
+- [Original Mod Download](https://github.com/ChaoticTrials/morevanillaarmor)
 - [This Mod Download (CurseForge)]()
 - [This Mod Download (Modrinth)]()
 
 ### Description:
 
 Mod originally created by **@MelanX** .
-mc mod for More Vanilla Armor.  Supports both Forge and Fabric.
+mc mod for More Vanilla Armor.
 
 ### Disclaimer:
 
@@ -22,4 +22,4 @@ mc mod for More Vanilla Armor.  Supports both Forge and Fabric.
 
 This repository license is MIT license.
 
-Original license you can find it on the original [repository](https://github.com/ChaoticTrials/MoreVanillaArmor).
+Original license you can find it on the original [repository](https://github.com/ChaoticTrials/morevanillaarmor).

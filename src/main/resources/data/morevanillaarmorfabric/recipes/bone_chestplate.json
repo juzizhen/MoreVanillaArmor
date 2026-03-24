@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "M": {
+      "tag": "c:bones"
+    }
+  },
+  "pattern": [
+    "M M",
+    "MMM",
+    "MMM"
+  ],
+  "result": {
+    "item": "morevanillaarmorfabric:bone_chestplate"
+  },
+  "show_notification": true
+}

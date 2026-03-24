@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "M": {
+      "tag": "c:obsidian"
+    }
+  },
+  "pattern": [
+    "M M",
+    "MMM",
+    "MMM"
+  ],
+  "result": {
+    "item": "morevanillaarmorfabric:obsidian_chestplate"
+  },
+  "show_notification": true
+}

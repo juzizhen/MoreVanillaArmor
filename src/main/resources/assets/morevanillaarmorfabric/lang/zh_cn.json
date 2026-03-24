@@ -1,0 +1,98 @@
+{
+  "itemGroup.morevanillaarmorfabric": "更多原版护甲",
+
+  "morevanillaarmorfabric.bonus.damage_reduction": "伤害减免",
+  "morevanillaarmorfabric.bonus.fire_immunity": "火焰免疫",
+  "morevanillaarmorfabric.bonus.heavy": "坚如磐石",
+  "morevanillaarmorfabric.bonus.power_source": "移动能源",
+  "morevanillaarmorfabric.bonus.lightning_magnet": "雷电招来",
+
+  "item.morevanillaarmorfabric.bone_boots": "骨质靴子",
+  "item.morevanillaarmorfabric.bone_chestplate": "骨质胸甲",
+  "item.morevanillaarmorfabric.bone_helmet": "骨质头盔",
+  "item.morevanillaarmorfabric.bone_leggings": "骨质护腿",
+
+  "item.morevanillaarmorfabric.coal_boots": "煤炭靴子",
+  "item.morevanillaarmorfabric.coal_chestplate": "煤炭胸甲",
+  "item.morevanillaarmorfabric.coal_helmet": "煤炭头盔",
+  "item.morevanillaarmorfabric.coal_leggings": "煤炭护腿",
+
+  "item.morevanillaarmorfabric.copper_boots": "铜靴子",
+  "item.morevanillaarmorfabric.copper_chestplate": "铜胸甲",
+  "item.morevanillaarmorfabric.copper_helmet": "铜头盔",
+  "item.morevanillaarmorfabric.copper_leggings": "铜护腿",
+
+  "item.morevanillaarmorfabric.emerald_boots": "绿宝石靴子",
+  "item.morevanillaarmorfabric.emerald_chestplate": "绿宝石胸甲",
+  "item.morevanillaarmorfabric.emerald_helmet": "绿宝石头盔",
+  "item.morevanillaarmorfabric.emerald_leggings": "绿宝石护腿",
+
+  "item.morevanillaarmorfabric.ender_boots": "末影靴子",
+  "item.morevanillaarmorfabric.ender_chestplate": "末影胸甲",
+  "item.morevanillaarmorfabric.ender_helmet": "末影头盔",
+  "item.morevanillaarmorfabric.ender_leggings": "末影护腿",
+
+  "item.morevanillaarmorfabric.fiery_boots": "炽焰靴子",
+  "item.morevanillaarmorfabric.fiery_chestplate": "炽焰胸甲",
+  "item.morevanillaarmorfabric.fiery_helmet": "炽焰头盔",
+  "item.morevanillaarmorfabric.fiery_leggings": "炽焰护腿",
+
+  "item.morevanillaarmorfabric.glowstone_boots": "荧石靴子",
+  "item.morevanillaarmorfabric.glowstone_chestplate": "荧石胸甲",
+  "item.morevanillaarmorfabric.glowstone_helmet": "荧石头盔",
+  "item.morevanillaarmorfabric.glowstone_leggings": "荧石护腿",
+
+  "item.morevanillaarmorfabric.lapis_boots": "青金石靴子",
+  "item.morevanillaarmorfabric.lapis_chestplate": "青金石胸甲",
+  "item.morevanillaarmorfabric.lapis_helmet": "青金石头盔",
+  "item.morevanillaarmorfabric.lapis_leggings": "青金石护腿",
+
+  "item.morevanillaarmorfabric.nether_boots": "下界靴子",
+  "item.morevanillaarmorfabric.nether_chestplate": "下界胸甲",
+  "item.morevanillaarmorfabric.nether_helmet": "下界头盔",
+  "item.morevanillaarmorfabric.nether_leggings": "下界护腿",
+
+  "item.morevanillaarmorfabric.obsidian_boots": "黑曜石靴子",
+  "item.morevanillaarmorfabric.obsidian_chestplate": "黑曜石胸甲",
+  "item.morevanillaarmorfabric.obsidian_helmet": "黑曜石头盔",
+  "item.morevanillaarmorfabric.obsidian_leggings": "黑曜石护腿",
+
+  "item.morevanillaarmorfabric.paper_boots": "纸靴子",
+  "item.morevanillaarmorfabric.paper_chestplate": "纸胸甲",
+  "item.morevanillaarmorfabric.paper_helmet": "纸头盔",
+  "item.morevanillaarmorfabric.paper_leggings": "纸护腿",
+
+  "item.morevanillaarmorfabric.prismarine_boots": "海晶靴子",
+  "item.morevanillaarmorfabric.prismarine_chestplate": "海晶胸甲",
+  "item.morevanillaarmorfabric.prismarine_helmet": "海晶头盔",
+  "item.morevanillaarmorfabric.prismarine_leggings": "海晶护腿",
+
+  "item.morevanillaarmorfabric.quartz_boots": "石英靴子",
+  "item.morevanillaarmorfabric.quartz_chestplate": "石英胸甲",
+  "item.morevanillaarmorfabric.quartz_helmet": "石英头盔",
+  "item.morevanillaarmorfabric.quartz_leggings": "石英护腿",
+
+  "item.morevanillaarmorfabric.redstone_boots": "红石靴子",
+  "item.morevanillaarmorfabric.redstone_chestplate": "红石胸甲",
+  "item.morevanillaarmorfabric.redstone_helmet": "红石头盔",
+  "item.morevanillaarmorfabric.redstone_leggings": "红石护腿",
+
+  "item.morevanillaarmorfabric.slime_boots": "史莱姆靴子",
+  "item.morevanillaarmorfabric.slime_chestplate": "史莱姆胸甲",
+  "item.morevanillaarmorfabric.slime_helmet": "史莱姆头盔",
+  "item.morevanillaarmorfabric.slime_leggings": "史莱姆护腿",
+
+  "item.morevanillaarmorfabric.stone_boots": "石靴子",
+  "item.morevanillaarmorfabric.stone_chestplate": "石胸甲",
+  "item.morevanillaarmorfabric.stone_helmet": "石头盔",
+  "item.morevanillaarmorfabric.stone_leggings": "石护腿",
+
+  "item.morevanillaarmorfabric.wood_boots": "木靴子",
+  "item.morevanillaarmorfabric.wood_chestplate": "木胸甲",
+  "item.morevanillaarmorfabric.wood_helmet": "木头盔",
+  "item.morevanillaarmorfabric.wood_leggings": "木护腿",
+
+  "tooltip.morevanillaarmorfabric.missing": "缺失：",
+  "tooltip.morevanillaarmorfabric.missing_pieces": "多件部位",
+  "tooltip.morevanillaarmorfabric.setbonus": "套装加成："
+}

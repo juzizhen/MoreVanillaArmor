@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "M": {
+      "tag": "c:storage_blocks/redstone"
+    }
+  },
+  "pattern": [
+    "MMM",
+    "M M"
+  ],
+  "result": {
+    "item": "morevanillaarmorfabric:redstone_helmet"
+  },
+  "show_notification": true
+}

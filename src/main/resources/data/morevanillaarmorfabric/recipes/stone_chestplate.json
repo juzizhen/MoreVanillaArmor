@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "M": {
+      "tag": "c:stone"
+    }
+  },
+  "pattern": [
+    "M M",
+    "MMM",
+    "MMM"
+  ],
+  "result": {
+    "item": "morevanillaarmorfabric:stone_chestplate"
+  },
+  "show_notification": true
+}

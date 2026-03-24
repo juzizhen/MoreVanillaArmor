@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "M": {
+      "tag": "c:end_stones"
+    }
+  },
+  "pattern": [
+    "MMM",
+    "M M"
+  ],
+  "result": {
+    "item": "morevanillaarmorfabric:ender_helmet"
+  },
+  "show_notification": true
+}

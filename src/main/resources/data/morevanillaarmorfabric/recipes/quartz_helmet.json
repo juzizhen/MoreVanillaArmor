@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "M": {
+      "tag": "c:storage_blocks/quartz"
+    }
+  },
+  "pattern": [
+    "MMM",
+    "M M"
+  ],
+  "result": {
+    "item": "morevanillaarmorfabric:quartz_helmet"
+  },
+  "show_notification": true
+}

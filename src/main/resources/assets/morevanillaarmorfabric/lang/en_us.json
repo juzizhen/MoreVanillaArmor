@@ -1,0 +1,98 @@
+{
+  "itemGroup.morevanillaarmorfabric": "morevanillaarmorfabric",
+
+  "morevanillaarmorfabric.bonus.damage_reduction": "Damage Reduction",
+  "morevanillaarmorfabric.bonus.fire_immunity": "Fire Immunity",
+  "morevanillaarmorfabric.bonus.heavy": "Heavyness",
+  "morevanillaarmorfabric.bonus.power_source": "Power Source",
+  "morevanillaarmorfabric.bonus.lightning_magnet": "Lightning Magnet",
+
+  "item.morevanillaarmorfabric.bone_boots": "Bone Boots",
+  "item.morevanillaarmorfabric.bone_chestplate": "Bone Chestplate",
+  "item.morevanillaarmorfabric.bone_helmet": "Bone Helmet",
+  "item.morevanillaarmorfabric.bone_leggings": "Bone Leggings",
+
+  "item.morevanillaarmorfabric.coal_boots": "Coal Boots",
+  "item.morevanillaarmorfabric.coal_chestplate": "Coal Chestplate",
+  "item.morevanillaarmorfabric.coal_helmet": "Coal Helmet",
+  "item.morevanillaarmorfabric.coal_leggings": "Coal Leggings",
+
+  "item.morevanillaarmorfabric.copper_boots": "Copper Boots",
+  "item.morevanillaarmorfabric.copper_chestplate": "Copper Chestplate",
+  "item.morevanillaarmorfabric.copper_helmet": "Copper Helmet",
+  "item.morevanillaarmorfabric.copper_leggings": "Copper Leggings",
+
+  "item.morevanillaarmorfabric.emerald_boots": "Emerald Boots",
+  "item.morevanillaarmorfabric.emerald_chestplate": "Emerald Chestplate",
+  "item.morevanillaarmorfabric.emerald_helmet": "Emerald Helmet",
+  "item.morevanillaarmorfabric.emerald_leggings": "Emerald Leggings",
+
+  "item.morevanillaarmorfabric.ender_boots": "Ender Boots",
+  "item.morevanillaarmorfabric.ender_chestplate": "Ender Chestplate",
+  "item.morevanillaarmorfabric.ender_helmet": "Ender Helmet",
+  "item.morevanillaarmorfabric.ender_leggings": "Ender Leggings",
+
+  "item.morevanillaarmorfabric.fiery_boots": "Fiery Boots",
+  "item.morevanillaarmorfabric.fiery_chestplate": "Fiery Chestplate",
+  "item.morevanillaarmorfabric.fiery_helmet": "Fiery Helmet",
+  "item.morevanillaarmorfabric.fiery_leggings": "Fiery Leggings",
+
+  "item.morevanillaarmorfabric.glowstone_boots": "Glowstone Boots",
+  "item.morevanillaarmorfabric.glowstone_chestplate": "Glowstone Chestplate",
+  "item.morevanillaarmorfabric.glowstone_helmet": "Glowstone Helmet",
+  "item.morevanillaarmorfabric.glowstone_leggings": "Glowstone Leggings",
+
+  "item.morevanillaarmorfabric.lapis_boots": "Lapis Boots",
+  "item.morevanillaarmorfabric.lapis_chestplate": "Lapis Chestplate",
+  "item.morevanillaarmorfabric.lapis_helmet": "Lapis Helmet",
+  "item.morevanillaarmorfabric.lapis_leggings": "Lapis Leggings",
+
+  "item.morevanillaarmorfabric.nether_boots": "Nether Boots",
+  "item.morevanillaarmorfabric.nether_chestplate": "Nether Chestplate",
+  "item.morevanillaarmorfabric.nether_helmet": "Nether Helmet",
+  "item.morevanillaarmorfabric.nether_leggings": "Nether Leggings",
+
+  "item.morevanillaarmorfabric.obsidian_boots": "Obsidian Boots",
+  "item.morevanillaarmorfabric.obsidian_chestplate": "Obsidian Chestplate",
+  "item.morevanillaarmorfabric.obsidian_helmet": "Obsidian Helmet",
+  "item.morevanillaarmorfabric.obsidian_leggings": "Obsidian Leggings",
+
+  "item.morevanillaarmorfabric.paper_boots": "Paper Boots",
+  "item.morevanillaarmorfabric.paper_chestplate": "Paper Chestplate",
+  "item.morevanillaarmorfabric.paper_helmet": "Paper Helmet",
+  "item.morevanillaarmorfabric.paper_leggings": "Paper Leggings",
+
+  "item.morevanillaarmorfabric.prismarine_boots": "Prismarine Boots",
+  "item.morevanillaarmorfabric.prismarine_chestplate": "Prismarine Chestplate",
+  "item.morevanillaarmorfabric.prismarine_helmet": "Prismarine Helmet",
+  "item.morevanillaarmorfabric.prismarine_leggings": "Prismarine Leggings",
+
+  "item.morevanillaarmorfabric.quartz_boots": "Quartz Boots",
+  "item.morevanillaarmorfabric.quartz_chestplate": "Quartz Chestplate",
+  "item.morevanillaarmorfabric.quartz_helmet": "Quartz Helmet",
+  "item.morevanillaarmorfabric.quartz_leggings": "Quartz Leggings",
+
+  "item.morevanillaarmorfabric.redstone_boots": "Redstone Boots",
+  "item.morevanillaarmorfabric.redstone_chestplate": "Redstone Chestplate",
+  "item.morevanillaarmorfabric.redstone_helmet": "Redstone Helmet",
+  "item.morevanillaarmorfabric.redstone_leggings": "Redstone Leggings",
+
+  "item.morevanillaarmorfabric.slime_boots": "Slime Boots",
+  "item.morevanillaarmorfabric.slime_chestplate": "Slime Chestplate",
+  "item.morevanillaarmorfabric.slime_helmet": "Slime Helmet",
+  "item.morevanillaarmorfabric.slime_leggings": "Slime Leggings",
+
+  "item.morevanillaarmorfabric.stone_boots": "Stone Boots",
+  "item.morevanillaarmorfabric.stone_chestplate": "Stone Chestplate",
+  "item.morevanillaarmorfabric.stone_helmet": "Stone Helmet",
+  "item.morevanillaarmorfabric.stone_leggings": "Stone Leggings",
+
+  "item.morevanillaarmorfabric.wood_boots": "Wooden Boots",
+  "item.morevanillaarmorfabric.wood_chestplate": "Wooden Chestplate",
+  "item.morevanillaarmorfabric.wood_helmet": "Wooden Helmet",
+  "item.morevanillaarmorfabric.wood_leggings": "Wooden Leggings",
+
+  "tooltip.morevanillaarmorfabric.missing": "Missing: ",
+  "tooltip.morevanillaarmorfabric.missing_pieces": "multiple pieces",
+  "tooltip.morevanillaarmorfabric.setbonus": "Set bonus: "
+}
