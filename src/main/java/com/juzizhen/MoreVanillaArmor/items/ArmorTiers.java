@@ -17,20 +17,20 @@ import java.util.function.Supplier;
 public enum ArmorTiers implements ArmorMaterial {
 
     BONE(Config.DefaultMaterial.BONE, SoundEvents.ENTITY_SKELETON_AMBIENT, null, () -> Ingredient.fromTag(ModTags.BONES_TAG)),
-    COAL(Config.DefaultMaterial.COAL, SoundEvents.ITEM_ARMOR_EQUIP_ELYTRA, null, () -> Ingredient.ofItems(Items.COAL),  () -> Ingredient.fromTag(ModTags.COAL_BLOCKS)),
+    COAL(Config.DefaultMaterial.COAL, SoundEvents.ITEM_ARMOR_EQUIP_ELYTRA, null, () -> Ingredient.ofItems(Items.COAL)),
     COPPER(Config.DefaultMaterial.COPPER, SoundEvents.ITEM_ARMOR_EQUIP_IRON, Bonuses.LIGHTNING_MAGNET, () -> Ingredient.ofItems(Items.COPPER_INGOT)),
     EMERALD(Config.DefaultMaterial.EMERALD, SoundEvents.ITEM_ARMOR_EQUIP_DIAMOND, null, () -> Ingredient.fromTag(ModTags.EMERALD_GEMS)),
-    ENDER(Config.DefaultMaterial.ENDER, SoundEvents.ENTITY_ENDER_EYE_LAUNCH, null, () -> Ingredient.fromTag(ModTags.ENDER_PEARLS), () -> Ingredient.fromTag(ModTags.END_STONES_ITEMS)),
+    ENDER(Config.DefaultMaterial.ENDER, SoundEvents.ENTITY_ENDER_EYE_LAUNCH, null, () -> Ingredient.fromTag(ModTags.ENDER_PEARLS)),
     FIERY(Config.DefaultMaterial.FIERY, SoundEvents.ENTITY_BLAZE_SHOOT, Bonuses.FIRE_IMMUNITY, () -> Ingredient.ofItems(Items.MAGMA_BLOCK)),
     GLOWSTONE(Config.DefaultMaterial.GLOWSTONE, SoundEvents.ITEM_ARMOR_EQUIP_GOLD, null, () -> Ingredient.ofItems(Items.GLOWSTONE)),
-    LAPIS(Config.DefaultMaterial.LAPIS, SoundEvents.ITEM_ARMOR_EQUIP_GOLD, null, () -> Ingredient.fromTag(ModTags.LAPIS_GEMS), () -> Ingredient.fromTag(ModTags.LAPIS_BLOCKS)),
+    LAPIS(Config.DefaultMaterial.LAPIS, SoundEvents.ITEM_ARMOR_EQUIP_GOLD, null, () -> Ingredient.fromTag(ModTags.LAPIS_GEMS)),
     NETHER(Config.DefaultMaterial.NETHER, SoundEvents.BLOCK_LAVA_EXTINGUISH, null, () -> Ingredient.ofItems(Items.NETHER_BRICK)),
     OBSIDIAN(Config.DefaultMaterial.OBSIDIAN, SoundEvents.ENTITY_ENDER_EYE_DEATH, Bonuses.HEAVY, () -> Ingredient.fromTag(ModTags.OBSIDIAN_TAG)),
     PAPER(Config.DefaultMaterial.PAPER, SoundEvents.ENTITY_PLAYER_ATTACK_SWEEP, null, () -> Ingredient.ofItems(Items.PAPER)),
-    PRISMARINE(Config.DefaultMaterial.PRISMARINE, SoundEvents.AMBIENT_UNDERWATER_LOOP, null, () -> Ingredient.fromTag(ModTags.PRISMARINE_DUSTS), () -> Ingredient.ofItems(Items.PRISMARINE)),
-    QUARTZ(Config.DefaultMaterial.QUARTZ, SoundEvents.ITEM_ARMOR_EQUIP_ELYTRA, null, () -> Ingredient.fromTag(ModTags.QUARTZ_GEMS), () -> Ingredient.fromTag(ModTags.QUARTZ_BLOCKS_ITEMS)),
-    REDSTONE(Config.DefaultMaterial.REDSTONE, SoundEvents.ITEM_ARMOR_EQUIP_GOLD, Bonuses.POWER_SOURCE, () -> Ingredient.fromTag(ModTags.REDSTONE_DUSTS), () -> Ingredient.fromTag(ModTags.REDSTONE_BLOCKS_ITEMS)),
-    SLIME(Config.DefaultMaterial.SLIME, SoundEvents.BLOCK_SLIME_BLOCK_STEP, Bonuses.DAMAGE_REDUCTION, () -> Ingredient.fromTag(ModTags.SLIMEBALLS), () -> Ingredient.ofItems(Items.SLIME_BLOCK)),
+    PRISMARINE(Config.DefaultMaterial.PRISMARINE, SoundEvents.AMBIENT_UNDERWATER_LOOP, null, () -> Ingredient.fromTag(ModTags.PRISMARINE_DUSTS)),
+    QUARTZ(Config.DefaultMaterial.QUARTZ, SoundEvents.ITEM_ARMOR_EQUIP_ELYTRA, null, () -> Ingredient.fromTag(ModTags.QUARTZ_GEMS)),
+    REDSTONE(Config.DefaultMaterial.REDSTONE, SoundEvents.ITEM_ARMOR_EQUIP_GOLD, Bonuses.POWER_SOURCE, () -> Ingredient.fromTag(ModTags.REDSTONE_DUSTS)),
+    SLIME(Config.DefaultMaterial.SLIME, SoundEvents.BLOCK_SLIME_BLOCK_STEP, Bonuses.DAMAGE_REDUCTION, () -> Ingredient.fromTag(ModTags.SLIMEBALLS)),
     STONE(Config.DefaultMaterial.STONE, SoundEvents.BLOCK_STONE_BREAK, null, () -> Ingredient.fromTag(ModTags.STONE_TAG)),
     WOOD(Config.DefaultMaterial.WOOD, SoundEvents.BLOCK_WOODEN_DOOR_OPEN, null, () -> Ingredient.fromTag(ItemTags.LOGS));
 

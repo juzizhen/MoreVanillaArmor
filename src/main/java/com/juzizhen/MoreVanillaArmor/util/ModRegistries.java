@@ -74,7 +74,7 @@ public class ModRegistries {
                 new Identifier(MoreVanillaArmor.MODID, "morevanillaarmor"),
                 FabricItemGroup.builder()
                         .icon(() -> new ItemStack(armor.get(new ArmorPiece(ArmorTiers.EMERALD, ArmorSlot.CHESTPLATE))))
-                        .displayName(Text.literal("MoreVanillaArmor"))
+                        .displayName(Text.translatable("itemGroup.morevanillaarmor"))
                         .entries((context, entries) -> {
                             for (Item item : Registries.ITEM) {
                                 if (Registries.ITEM.getId(item).getNamespace().equals(MoreVanillaArmor.MODID)) {
