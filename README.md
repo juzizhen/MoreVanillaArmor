@@ -5,8 +5,8 @@ Added armor crafted from a wider variety of materials, including bone, coal, eme
 Requires the Fabric API.
 
 - [Original Mod Download](https://github.com/ChaoticTrials/morevanillaarmor)
-- [This Mod Download (CurseForge)]()
-- [This Mod Download (Modrinth)]()
+- [This Mod Download (CurseForge)](https://www.curseforge.com/minecraft/mc-mods/more-vanilla-armor-fabric)
+- [This Mod Download (Modrinth)](https://modrinth.com/mod/more-vanilla-armor-fabric)
 
 ### Description:
 
